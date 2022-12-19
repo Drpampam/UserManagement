@@ -1,0 +1,232 @@
+[
+  {
+    "FirstName": "Chukwuka",
+    "LastName": "Okpalaugo",
+    "BVN": "34574859687",
+    "Email": "promise@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-48c7-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa0b-4068-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chinonso",
+    "LastName": "Chinonso",
+    "BVN": "34574659687",
+    "Email": "chinonso@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-48c7-a097-2c086c01bc6b",
+        "Name": "No 7 Decagon",
+        "City": "Sangotedo",
+        "State": "Lagos"
+      },
+      {
+        "Id": "5cea7988-aa0b-4068-b0a7-d619af04e58c",
+        "Name": "No 3 umunemelum Street",
+        "City": "Awka-Etiti",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Ebuka",
+    "LastName": "Egwuchukwu",
+    "BVN": "34577859687",
+    "Email": "ebuka@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-48c7-a097-2c086c01bc7b",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa0b-4068-b0a7-d619af04e595",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chinonso",
+    "LastName": "Omeni",
+    "BVN": "34574850687",
+    "Email": "omeni@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "e6e76e54-2b14-48c7-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cda7998-aa0b-4068-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Favour",
+    "LastName": "Egun",
+    "BVN": "34579859687",
+    "Email": "favour@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b34-48c7-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa6b-4068-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Emmanuel",
+    "LastName": "Yisa",
+    "BVN": "34574857687",
+    "Email": "emmanue@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-48c7-a047-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa0b-4068-b0b7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Jonathan",
+    "LastName": "Ebele",
+    "BVN": "34574869687",
+    "Email": "jonathan@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2c14-48c7-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-ac0b-4068-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Chinedu",
+    "LastName": "Otuka",
+    "BVN": "34571859687",
+    "Email": "chinedu@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b94-48c7-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7987-aa0b-4068-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Nicholas",
+    "LastName": "Nuhu",
+    "BVN": "34574854587",
+    "Email": "nicholas@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-48c7-a097-2c086c10bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa0b-4068-b0a7-d691af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  },
+  {
+    "FirstName": "Osadolor",
+    "LastName": "Best",
+    "BVN": "34574896687",
+    "Email": "osadolor@gmail.com",
+    "PhoneNumber": "09060058188",
+    "EmailConfirmed": true,
+    "RefreshToken": "",
+    "Addresses": [
+      {
+        "Id": "eae76e54-2b14-4547-a097-2c086c01bc6a",
+        "Name": "No 630 DIM Street",
+        "City": "Nsukka",
+        "State": "Enugu"
+      },
+      {
+        "Id": "5cea7988-aa0b-45j8-b0a7-d619af04e583",
+        "Name": "No2 Umudim Otolo Nnewi",
+        "City": "Nnewi",
+        "State": "Anambra"
+      }
+    ]
+  }
+]

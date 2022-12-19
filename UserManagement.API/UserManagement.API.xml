@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UserManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:UserManagement.API.Controllers.AuthController.Register(UserManagement.Core.DTOs.RegistrationDTO)">
+            <summary>
+            Validates, Register and Creates Wallet for User
+            </summary>
+            <returns>Registration Status.</returns>
+        </member>
+    </members>
+</doc>
